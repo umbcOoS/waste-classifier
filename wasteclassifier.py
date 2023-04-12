@@ -35,9 +35,9 @@ Thus, Resnet50 has been used to train the model for the 7 classes.
 Install fastai library
 """
 
-!pip uninstall fastai
-!pip uninstall fastai2
-!pip install fastai==2.5.3
+pip uninstall fastai
+pip uninstall fastai2
+pip install fastai==2.5.3
 
 pip install Streamlit
 
